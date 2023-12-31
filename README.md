@@ -1,6 +1,6 @@
 # SQL Topics & Codes
 
-This repository contains **SQL Queris** in **MySQL**
+This repository contains **SQL Queries** in **MySQL**
 
 **Important Topics:**
 1. CREATE, INSERT
